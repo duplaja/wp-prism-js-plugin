@@ -5,8 +5,7 @@
  * @author Lea Verou
  */
 .line-highlight {
-	background: linear-gradient(to right,hsla(56, 100%, 50%, 0.15) 70%,hsla(68, 100%, 50%, 0.15))!important;
-	width:100%!important;
+	background: linear-gradient(to right,hsla(56, 100%, 50%, 0.15) 70%,hsla(56, 100%, 50%, 0.15))!important;
 }
 
 .copytoclipboard-button {
