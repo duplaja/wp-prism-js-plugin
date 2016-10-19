@@ -7,7 +7,7 @@
             //add new button     
             ed.addButton("prism", {
 			 type: "menubutton",
-                image : "https://cdn2.iconfinder.com/data/icons/free-mobile-icon-kit/32/Crystal.png",
+                image : url + "/crystal.png",
            	title: "Prism Code Blocks",
 
 			menu: [{
