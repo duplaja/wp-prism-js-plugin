@@ -4,9 +4,6 @@
  * Based on dabblet (http://dabblet.com)
  * @author Lea Verou
  */
-.line-highlight {
-	background: linear-gradient(to right,hsla(56, 100%, 50%, 0.15) 70%,hsla(56, 100%, 50%, 0.15))!important;
-}
 
 .copytoclipboard-button {
 	
@@ -185,7 +182,7 @@ pre[data-line] {
 	margin-top: 1em; /* Same as .prism’s padding-top */
 
 	background: hsla(24, 20%, 50%,.08);
-	background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+	background: linear-gradient(to right,hsla(56, 100%, 50%, 0.15) 70%,hsla(56, 100%, 50%, 0.15));
 
 	pointer-events: none;
 

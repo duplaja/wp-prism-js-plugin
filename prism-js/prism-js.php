@@ -20,6 +20,7 @@ function prism_js_enqueue_script() {
 	wp_enqueue_script( 'clipboard-js', plugin_dir_url( __FILE__ ) . 'js/clipboard.min.js', false ); 
 	wp_enqueue_script( 'clipboard-setup-js', plugin_dir_url( __FILE__ ) . 'js/clipboard-setup.js', '','',true ); 
 	
+	
 
 }
 add_action( 'wp_enqueue_scripts', 'prism_js_enqueue_style' );
