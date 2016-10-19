@@ -3,8 +3,8 @@
 * Plugin Name: Prism JS Loader
 * Plugin URI: https://www.wptechguides.com
 * Description: A Custom Code Syntax Highlighter
-* Version: 0.1
-* Author: Dan D
+* Version: 1.0
+* Author: duplaja (Dan D.)
 * Author URI: https://www.convexcode.com
 **/
 
