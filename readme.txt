@@ -1,19 +1,19 @@
-=== PrismJS Extended ===
+=== Codeblocks Extended with PrismJS ===
 Contributors: duplaja
 Donate link: https://www.wptechguides.com/donate/
-Tags: code, pre, prismjs, code highlighting
+Tags: code, pre, prismjs, code highlighting, clipboardjs
 Requires at least: 3.0.1
 Tested up to: 4.6.1
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-PrismJS Extended includes PrismJS syntax highlighting, copy to clipboard, and Visual + Text editor integration.
+Codebocks Extended with PrismJS includes syntax highlighting, copy to clipboard, and Visual + Text editor integration.
 
 == Description ==
 
-PrismJS Extended was born of a personal need for a lightweight code highlighter, with special functionality. 
-Many of the other PrismJS plugins in the repository were either outdated, or were lacking features that I was looking for.
+Codeblocks Extended with PrismJS was born of a personal need for a lightweight code highlighter, with special functionality. 
+Many of the other PrismJS based plugins in the repository were either outdated, or were lacking features that I was looking for.
 
 Features:
 

@@ -1,8 +1,8 @@
 <?php
 /**
-* Plugin Name: Prism JS Loader
+* Plugin Name: Codeblocks Extended with PrismJS
 * Plugin URI: https://www.wptechguides.com
-* Description: A Custom Code Syntax Highlighter
+* Description: A Custom Code Syntax Highlighter based on PrismJS and ClipboardJS
 * Version: 1.0
 * Author: duplaja (Dan D.)
 * Author URI: https://www.convexcode.com
